@@ -1,0 +1,4 @@
+0) appartment
+1) empty_land
+2) office
+3) sub_house
